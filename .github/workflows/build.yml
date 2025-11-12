@@ -1,4 +1,4 @@
-name: 
+name: build-android-arm64
 
 on:
   push:
@@ -68,4 +68,3 @@ jobs:
         with:
           name: exynostools-android-arm64
           path: exynostools-android-arm64.tar.zst
-
