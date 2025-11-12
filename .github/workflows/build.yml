@@ -1,4 +1,4 @@
-name: build-android-arm64
+name: 
 
 on:
   push:
